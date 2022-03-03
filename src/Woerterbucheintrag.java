@@ -59,7 +59,7 @@ public class Woerterbucheintrag implements Datenelement
 
 
     /**
-     * 
+     * Read me!
      * @param dVergleich
      * @return
      */
